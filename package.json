@@ -1,7 +1,7 @@
 {
   "name": "vanilajs",
   "version": "1.0.0",
-  "description": "Project with Vanila JS",
+  "description": "Project with Vanila JS and SASS",
   "main": "src/main.js",
   "scripts": {
     "dev": "webpack --mode development",
